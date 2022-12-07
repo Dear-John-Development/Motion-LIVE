@@ -1,0 +1,683 @@
+{
+  "current": {
+    "color_borders": "#a2aeb9",
+    "color_button": "#919da9",
+    "color_button_text": "#ffffff",
+    "color_header": "#ffffff",
+    "color_announcement": "#919da9",
+    "color_footer": "#111111",
+    "color_footer_text": "#ffffff",
+    "color_drawer_background": "#ffffff",
+    "color_drawer_text": "#000000",
+    "color_drawer_border": "#f0f1f3",
+    "color_drawer_button": "#919da9",
+    "color_drawer_button_text": "#ffffff",
+    "color_modal_overlays": "#7d899b",
+    "color_image_2": "#ffffff",
+    "color_image_2_opacity": 6,
+    "color_image_1": "#000000",
+    "color_image_1_opacity": 6,
+    "color_small_image_bg": "#ffffff",
+    "color_large_image_bg": "#000000",
+    "type_header_font_family": "avenir_next_n4",
+    "type_header_spacing": "25",
+    "type_header_base_size": 23,
+    "type_header_line_height": 1.2,
+    "type_header_capitalize": true,
+    "type_header_accent_transform": true,
+    "type_base_font_family": "avenir_next_n4",
+    "type_base_spacing": "25",
+    "type_base_size": 13,
+    "type_base_line_height": 1.5,
+    "type_base_accent_transform": true,
+    "type_navigation_size": 13,
+    "icon_weight": "2px",
+    "icon_linecaps": "round",
+    "animate_page_transitions": false,
+    "animate_page_transition_style": "page-slow-fade",
+    "animate_sections": true,
+    "animate_sections_background_style": "fade-in",
+    "animate_sections_text_style": "fade-in",
+    "animate_images": true,
+    "animate_images_style": "fade-in",
+    "animate_buttons": true,
+    "animate_underlines": true,
+    "vendor_enable": true,
+    "product_grid_image_size": "portrait",
+    "product_grid_image_fill": true,
+    "quick_shop_enable": true,
+    "enable_product_reviews": false,
+    "cart_type": "drawer",
+    "cart_additional_buttons": true,
+    "cart_terms_conditions_page": "https:\/\/dearjohndenim.com\/pages\/terms-and-conditions",
+    "social_facebook_link": "https:\/\/www.facebook.com\/DearJohnDenim\/?ref=bookmarks",
+    "social_pinterest_link": "https:\/\/www.pinterest.com\/dearjohndenim\/",
+    "social_instagram_link": "https:\/\/www.instagram.com\/dearjohndenim\/",
+    "favicon": "shopify:\/\/shop_images\/DJ_CIRCULAR_LOGO__Black_985e14b4-91d3-4014-9238-8a6b7c3d941a.png",
+    "search_type": "product",
+    "show_breadcrumbs": true,
+    "show_breadcrumbs_collection_link": true,
+    "checkout_header_image": "",
+    "checkout_logo_image": "shopify:\/\/shop_images\/basnner.jpg",
+    "checkout_logo_position": "left",
+    "checkout_logo_size": "medium",
+    "checkout_body_background_image": "",
+    "checkout_body_background_color": "#ffffff",
+    "checkout_input_background_color_mode": "white",
+    "checkout_sidebar_background_image": "",
+    "checkout_sidebar_background_color": "#fafafa",
+    "checkout_heading_font": "Helvetica Neue",
+    "checkout_body_font": "Helvetica Neue",
+    "checkout_accent_color": "#111111",
+    "checkout_button_color": "#111111",
+    "checkout_error_color": "#ff6d6d",
+    "color_image_bg": "#000000",
+    "color_input": "#ffffff",
+    "checkout_banner_background_color": "#ffffff",
+    "checkout_call_to_action_color": "#a26b25",
+    "checkout_use_header_image": false,
+    "sections": {
+      "header": {
+        "type": "header",
+        "blocks": {
+          "c364adb0-cc2e-479a-8e36-b130b5d4c6b7": {
+            "type": "megamenu",
+            "settings": {
+              "menu_item": "NEW",
+              "promo_image_1": "shopify:\/\/shop_images\/DEAR_JOHN_HOLIDAY_20227465_copy.jpg",
+              "promo_heading_1": "The Austin Jacket",
+              "promo_text_1": "",
+              "promo_url_1": "shopify:\/\/collections\/tencel-lofty-fiber",
+              "promo_heading_2": "",
+              "promo_text_2": "",
+              "promo_url_2": ""
+            }
+          },
+          "8b7ae4cd-c87b-4994-be01-4abafe501016": {
+            "type": "megamenu",
+            "settings": {
+              "menu_item": "TRENDING",
+              "promo_image_1": "shopify:\/\/shop_images\/featuredDressTe.jpg",
+              "promo_heading_1": "",
+              "promo_text_1": "",
+              "promo_url_1": "shopify:\/\/collections\/tencel-lofty-fiber",
+              "promo_heading_2": "",
+              "promo_text_2": "",
+              "promo_url_2": ""
+            }
+          },
+          "7622e370-7acf-4b0f-ac73-79a5f01b09de": {
+            "type": "megamenu",
+            "settings": {
+              "menu_item": "DENIM",
+              "promo_image_1": "shopify:\/\/shop_images\/90089923_629473877901639_7265876195596515431_n.jpg",
+              "promo_heading_1": "",
+              "promo_text_1": "",
+              "promo_url_1": "",
+              "promo_heading_2": "",
+              "promo_text_2": "",
+              "promo_url_2": ""
+            }
+          },
+          "58fe92e7-cbd5-4951-9cc4-ff5a6be6d4e9": {
+            "type": "megamenu",
+            "settings": {
+              "menu_item": "CLOTHING",
+              "promo_image_1": "shopify:\/\/shop_images\/DEAR_JOHN_HOLIDAY_20228156_copy.jpg",
+              "promo_heading_1": "Star Western Shirt",
+              "promo_text_1": "",
+              "promo_url_1": "shopify:\/\/products\/star-western-breakwater-shirt",
+              "promo_heading_2": "",
+              "promo_text_2": "",
+              "promo_url_2": ""
+            }
+          },
+          "9f60eb70-7ca5-4217-a8bc-534ae6c71e17": {
+            "type": "megamenu",
+            "settings": {
+              "menu_item": "FITS & WASHES",
+              "promo_image_1": "shopify:\/\/shop_images\/Screen_Shot_2021-11-08_at_9.19.49_PM.png",
+              "promo_heading_1": "",
+              "promo_text_1": "",
+              "promo_url_1": "",
+              "promo_heading_2": "",
+              "promo_text_2": "",
+              "promo_url_2": ""
+            }
+          },
+          "4547c7d5-f065-4f21-a5d2-a24fa58bc7ef": {
+            "type": "megamenu",
+            "settings": {
+              "menu_item": "SALE",
+              "promo_heading_1": "",
+              "promo_text_1": "",
+              "promo_url_1": "",
+              "promo_heading_2": "",
+              "promo_text_2": "",
+              "promo_url_2": ""
+            }
+          }
+        },
+        "block_order": [
+          "c364adb0-cc2e-479a-8e36-b130b5d4c6b7",
+          "8b7ae4cd-c87b-4994-be01-4abafe501016",
+          "7622e370-7acf-4b0f-ac73-79a5f01b09de",
+          "58fe92e7-cbd5-4951-9cc4-ff5a6be6d4e9",
+          "9f60eb70-7ca5-4217-a8bc-534ae6c71e17",
+          "4547c7d5-f065-4f21-a5d2-a24fa58bc7ef"
+        ],
+        "settings": {
+          "logo": "shopify:\/\/shop_images\/DJD_Logo_clear_copy_e484a96a-af62-4746-8611-a85c32a3eec1.jpg",
+          "logo-inverted": "shopify:\/\/shop_images\/DJD_Logo_clear_copy_2_21c44d22-2a7d-4b02-b2ad-324528b3ca46.jpg",
+          "desktop_logo_width": 340,
+          "mobile_logo_width": 140,
+          "main_menu_link_list": "main-menu",
+          "main_menu_alignment": "center",
+          "header_sticky": true,
+          "sticky_index": false,
+          "sticky_collection": true,
+          "show_announcement": true,
+          "announcement_text": "FREE SHIPPING WITH $100+ PURCHASE",
+          "announcement_link": "shopify:\/\/collections\/shop-all-clothing",
+          "announcement_closable": true
+        }
+      },
+      "newsletter-popup": {
+        "type": "newsletter-popup",
+        "blocks": {
+          "reminder-block": {
+            "type": "header",
+            "settings": {
+              "reminder_label": "Get 15% off"
+            }
+          }
+        },
+        "block_order": [
+          "reminder-block"
+        ],
+        "settings": {
+          "mode": false,
+          "disable_for_account_holders": true,
+          "popup_seconds": 60,
+          "popup_days": 30,
+          "popup_title": "Sign up and save",
+          "popup_text": "<p><\/p>",
+          "popup_image": "shopify:\/\/shop_images\/mainBanner1_bc009172-3815-4349-9900-c0c975e71a16.jpg",
+          "image_position": "left",
+          "show_social_icons": true,
+          "enable_newsletter": true,
+          "button_label": "SHOP NOW",
+          "button_link": "shopify:\/\/collections\/shop-new-arrivals"
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "blocks": {
+          "a99d958b-1b17-4e72-9bb2-8e18f0dce3a9": {
+            "type": "custom",
+            "settings": {
+              "show_footer_title": true,
+              "title": "ABOUT DEAR JOHN DENIM",
+              "text": "<p><strong>You're beautiful, it's the uncompromising truth!<\/strong><\/p><p><strong>You are our muse for the pleasure of owning something incomparably beautiful, effortless and sophisticated. We are inspired to translate the current trends of ready-to-wear fashion into designs of your favorite closet staples.     <\/strong><\/p><p><strong>It’s no secret, our signature fits were designed for you to be the perfect pair of jeans you would want to live in. Our silhouettes are shape defining and crafted with exceptional fabrics, artisan prints and rich color story.  They are buttery soft, luxurious and move with you effortlessly to express your identity and individuality. <\/strong><\/p><p><strong>From the heart, our pieces have always complimented you in showing your natural confidence and the best version of you.  Together, we’ll capture picture perfect moments to cherish for now and keeps.<\/strong><\/p><p><strong>Made with Love, <\/strong><\/p><p><strong>Dear John Denim<\/strong><\/p>",
+              "container_width": 26
+            }
+          },
+          "1494301487049": {
+            "type": "menu",
+            "settings": {
+              "show_footer_title": true,
+              "menu": "footer",
+              "container_width": 20
+            }
+          },
+          "1494292485313": {
+            "type": "menu",
+            "settings": {
+              "show_footer_title": true,
+              "menu": "main-menu",
+              "container_width": 20
+            }
+          },
+          "1494292487693": {
+            "type": "newsletter",
+            "settings": {
+              "show_footer_title": true,
+              "title": "Sign up and save",
+              "richtext": "<p>Subscribe to get special offers, free giveaways, and once-in-a-lifetime deals.<\/p>",
+              "container_width": 33
+            }
+          },
+          "1494292481350": {
+            "type": "logo_social",
+            "settings": {
+              "logo": "shopify:\/\/shop_images\/DJ_CIRCULAR_LOGO__Black_985e14b4-91d3-4014-9238-8a6b7c3d941a.png",
+              "desktop_logo_height": 50,
+              "container_width": 20
+            }
+          }
+        },
+        "block_order": [
+          "a99d958b-1b17-4e72-9bb2-8e18f0dce3a9",
+          "1494301487049",
+          "1494292485313",
+          "1494292487693",
+          "1494292481350"
+        ],
+        "settings": {
+          "show_locale_selector": true,
+          "show_currency_selector": true,
+          "show_currency_flags": true,
+          "show_payment_icons": true,
+          "colorize_payment_icons": true,
+          "show_copyright": true,
+          "copyright_text": ""
+        }
+      },
+      "footer-promotions": {
+        "type": "footer-promotions",
+        "settings": {
+          "hide_homepage": true,
+          "image_size": "wide",
+          "align_text": "center"
+        }
+      },
+      "age-verification-popup": {
+        "type": "age-verification-popup",
+        "settings": {
+          "enable_age_verification_popup": false,
+          "enable_test_mode": false,
+          "blur_image": false,
+          "heading": "Confirm your age",
+          "text": "<p>Are you 18 years old or older?<\/p>",
+          "decline_button_label": "No I'm not",
+          "approve_button_label": "Yes I am",
+          "decline_heading": "Come back when you're older",
+          "decline_text": "<p>Sorry, the content of this store can't be seen by a younger audience. Come back when you're older.<\/p>",
+          "return_button_label": "Oops, I entered incorrectly"
+        }
+      }
+    },
+    "content_for_index": [
+
+    ],
+    "blocks": {
+      "6174324309569838175": {
+        "type": "shopify:\/\/apps\/smile-rewards-loyalty\/blocks\/smile-shopify-app\/2fae4e25-1841-4ea2-bc02-bd548478c4f6",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "8232603958289840080": {
+        "type": "shopify:\/\/apps\/seo-manager\/blocks\/seomanager-404\/c54c366f-d4bb-4d52-8d2f-dd61ce8e7e12",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "17992116214976573926": {
+        "type": "shopify:\/\/apps\/seo-manager\/blocks\/seomanager\/c54c366f-d4bb-4d52-8d2f-dd61ce8e7e12",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "15885745614559378752": {
+        "type": "shopify:\/\/apps\/accessibly\/blocks\/app-embed\/4b59303e-1141-4c8a-945f-bf4adb516864",
+        "disabled": false,
+        "settings": {
+          "themeColor": "#574CD5",
+          "iconColor": "#D0D0D0",
+          "showLogo": true,
+          "topBottomPosition": 0,
+          "rightLeftPosition": 10,
+          "iconSize": "small",
+          "iconCustomSize": 64,
+          "position": "bottom-left"
+        }
+      }
+    }
+  },
+  "presets": {
+    "Classic": {
+      "color_borders": "#e8e8e1",
+      "color_button": "#111111",
+      "color_button_text": "#ffffff",
+      "color_drawer_background": "#ffffff",
+      "color_drawer_text": "#000000",
+      "color_drawer_border": "#e8e8e1",
+      "color_drawer_button": "#111111",
+      "color_drawer_button_text": "#ffffff",
+      "color_footer": "#111111",
+      "color_footer_text": "#ffffff",
+      "color_image_1": "#000000",
+      "color_image_1_opacity": 62,
+      "color_image_2": "#000000",
+      "color_image_2_opacity": 0,
+      "color_small_image_bg": "#ffffff",
+      "color_large_image_bg": "#111111",
+      "type_header_spacing": "0",
+      "type_header_font_family": "itc_avant_garde_gothic_n7",
+      "type_header_base_size": 35,
+      "type_header_line_height": 1.2,
+      "type_header_accent_transform": true,
+      "type_base_font_family": "futura_n4",
+      "type_base_spacing": "25",
+      "type_base_size": 17,
+      "type_base_line_height": 1.6,
+      "type_base_accent_transform": true,
+      "icon_weight": "3px",
+      "icon_linecaps": "miter",
+      "animate_page_transitions": true,
+      "animate_page_transition_style": "page-slow-fade",
+      "animate_sections": true,
+      "animate_sections_background_style": "zoom-fade",
+      "animate_sections_text_style": "rise-up",
+      "animate_images": true,
+      "animate_images_style": "zoom-fade",
+      "animate_buttons": true,
+      "animate_underlines": true,
+      "cart_type": "drawer",
+      "checkout_header_image": "",
+      "checkout_logo_image": "",
+      "checkout_logo_position": "left",
+      "checkout_logo_size": "medium",
+      "checkout_body_background_image": "",
+      "checkout_body_background_color": "#ffffff",
+      "checkout_input_background_color_mode": "white",
+      "checkout_sidebar_background_image": "",
+      "checkout_sidebar_background_color": "#fafafa",
+      "checkout_heading_font": "Helvetica Neue",
+      "checkout_body_font": "Helvetica Neue",
+      "checkout_accent_color": "#111111",
+      "checkout_button_color": "#111111",
+      "checkout_error_color": "#ff6d6d",
+      "color_image_bg": "#000000",
+      "color_input": "#ffffff",
+      "checkout_banner_background_color": "#ffffff",
+      "checkout_call_to_action_color": "#a26b25",
+      "checkout_use_header_image": false,
+      "sections": {
+        "header": {
+          "type": "header",
+          "settings": {
+            "main_menu_link_list": "main-menu",
+            "sticky_index": true,
+            "sticky_collection": false,
+            "show_announcement": true
+          }
+        },
+        "newsletter-popup": {
+          "type": "newsletter-popup",
+          "blocks": {
+            "reminder-block": {
+              "type": "header",
+              "disabled": true,
+              "settings": {
+              }
+            }
+          },
+          "block_order": [
+            "reminder-block"
+          ],
+          "settings": {
+          }
+        },
+        "footer": {
+          "type": "footer",
+          "blocks": {
+            "1494292481350": {
+              "type": "logo_social",
+              "settings": {
+                "container_width": 20
+              }
+            },
+            "1494292485313": {
+              "type": "menu",
+              "settings": {
+                "menu": "main-menu",
+                "container_width": 20
+              }
+            },
+            "1494292487693": {
+              "type": "newsletter",
+              "settings": {
+                "container_width": 33
+              }
+            },
+            "1494301487049": {
+              "type": "menu",
+              "settings": {
+                "menu": "footer",
+                "container_width": 20
+              }
+            }
+          },
+          "block_order": [
+            "1494301487049",
+            "1494292485313",
+            "1494292487693",
+            "1494292481350"
+          ],
+          "settings": {
+          }
+        }
+      }
+    },
+    "Elegant": {
+      "color_borders": "#e8e8e1",
+      "color_button": "#353956",
+      "color_button_text": "#ffffff",
+      "color_footer": "#17172c",
+      "color_footer_text": "#ffffff",
+      "color_drawer_background": "#ffffff",
+      "color_drawer_text": "#17172c",
+      "color_drawer_border": "#e8e8e1",
+      "color_drawer_button": "#353956",
+      "color_drawer_button_text": "#ffffff",
+      "color_modal_overlays": "#17172c",
+      "color_image_2": "#17172c",
+      "color_image_2_opacity": 0,
+      "color_image_1": "#17172c",
+      "color_image_1_opacity": 32,
+      "color_small_image_bg": "#f4f4f4",
+      "color_large_image_bg": "#17172c",
+      "type_header_spacing": "0",
+      "type_header_font_family": "bauer_bodoni_n7",
+      "type_header_base_size": 42,
+      "type_header_line_height": 1.3,
+      "type_base_font_family": "futura_n4",
+      "type_base_spacing": "25",
+      "type_base_size": 17,
+      "type_base_line_height": 1.6,
+      "icon_weight": "3px",
+      "icon_linecaps": "miter",
+      "animate_page_transitions": true,
+      "animate_page_transition_style": "page-slow-fade",
+      "animate_sections": true,
+      "animate_sections_background_style": "zoom-fade",
+      "animate_sections_text_style": "rise-up",
+      "animate_images": true,
+      "animate_images_style": "zoom-fade",
+      "animate_buttons": true,
+      "animate_underlines": true,
+      "cart_type": "drawer",
+      "checkout_header_image": "",
+      "checkout_logo_image": "",
+      "checkout_logo_position": "left",
+      "checkout_logo_size": "medium",
+      "checkout_body_background_image": "",
+      "checkout_body_background_color": "#ffffff",
+      "checkout_input_background_color_mode": "white",
+      "checkout_sidebar_background_image": "",
+      "checkout_sidebar_background_color": "#fafafa",
+      "checkout_heading_font": "Helvetica Neue",
+      "checkout_body_font": "Helvetica Neue",
+      "checkout_accent_color": "#111111",
+      "checkout_button_color": "#111111",
+      "checkout_error_color": "#ff6d6d",
+      "color_image_bg": "#000000",
+      "color_input": "#ffffff",
+      "checkout_banner_background_color": "#ffffff",
+      "checkout_call_to_action_color": "#a26b25",
+      "checkout_use_header_image": false,
+      "sections": {
+        "header": {
+          "type": "header",
+          "settings": {
+            "main_menu_link_list": "main-menu",
+            "sticky_index": true,
+            "sticky_collection": false,
+            "show_announcement": true
+          }
+        },
+        "footer": {
+          "type": "footer",
+          "blocks": {
+            "1494292481350": {
+              "type": "logo_social",
+              "settings": {
+                "container_width": 20
+              }
+            },
+            "1494292485313": {
+              "type": "menu",
+              "settings": {
+                "menu": "main-menu",
+                "container_width": 20
+              }
+            },
+            "1494292487693": {
+              "type": "newsletter",
+              "settings": {
+                "container_width": 33
+              }
+            },
+            "1494301487049": {
+              "type": "menu",
+              "settings": {
+                "menu": "footer",
+                "container_width": 20
+              }
+            }
+          },
+          "block_order": [
+            "1494292481350",
+            "1494301487049",
+            "1494292485313",
+            "1494292487693"
+          ],
+          "settings": {
+          }
+        }
+      }
+    },
+    "Minimal": {
+      "color_borders": "#f0f1f3",
+      "color_button": "#111111",
+      "color_button_text": "#ffffff",
+      "color_footer": "#f0f1f3",
+      "color_footer_text": "#2c2c2c",
+      "color_drawer_background": "#ffffff",
+      "color_drawer_text": "#000000",
+      "color_drawer_border": "#f0f1f3",
+      "color_drawer_button": "#111111",
+      "color_drawer_button_text": "#ffffff",
+      "color_modal_overlays": "#aeb1b8",
+      "color_image_2": "#000000",
+      "color_image_2_opacity": 0,
+      "color_image_1": "#000000",
+      "color_image_1_opacity": 26,
+      "color_small_image_bg": "#ffffff",
+      "color_large_image_bg": "#dedfe1",
+      "type_header_spacing": "50",
+      "type_header_font_family": "chivo_n7",
+      "type_header_base_size": 34,
+      "type_header_line_height": 1.2,
+      "type_header_accent_transform": true,
+      "type_base_font_family": "neuzeit_office_n4",
+      "type_base_spacing": "25",
+      "type_base_size": 16,
+      "type_base_line_height": 1.6,
+      "type_base_accent_transform": true,
+      "icon_weight": "2px",
+      "icon_linecaps": "round",
+      "animate_page_transitions": true,
+      "animate_page_transition_style": "page-slide-reveal-down",
+      "animate_sections": true,
+      "animate_sections_background_style": "zoom-fade",
+      "animate_sections_text_style": "rise-up",
+      "animate_images": true,
+      "animate_images_style": "fade-in",
+      "animate_buttons": true,
+      "animate_underlines": true,
+      "cart_type": "drawer",
+      "checkout_header_image": "",
+      "checkout_logo_image": "",
+      "checkout_logo_position": "left",
+      "checkout_logo_size": "medium",
+      "checkout_body_background_image": "",
+      "checkout_body_background_color": "#ffffff",
+      "checkout_input_background_color_mode": "white",
+      "checkout_sidebar_background_image": "",
+      "checkout_sidebar_background_color": "#fafafa",
+      "checkout_heading_font": "Helvetica Neue",
+      "checkout_body_font": "Helvetica Neue",
+      "checkout_accent_color": "#111111",
+      "checkout_button_color": "#111111",
+      "checkout_error_color": "#ff6d6d",
+      "color_image_bg": "#000000",
+      "color_input": "#ffffff",
+      "checkout_banner_background_color": "#ffffff",
+      "checkout_call_to_action_color": "#a26b25",
+      "checkout_use_header_image": false,
+      "sections": {
+        "header": {
+          "type": "header",
+          "settings": {
+            "main_menu_link_list": "main-menu",
+            "sticky_index": false,
+            "sticky_collection": false,
+            "show_announcement": true
+          }
+        },
+        "footer": {
+          "type": "footer",
+          "blocks": {
+            "1494292481350": {
+              "type": "logo_social",
+              "settings": {
+                "container_width": 20
+              }
+            },
+            "1494292485313": {
+              "type": "menu",
+              "settings": {
+                "menu": "main-menu",
+                "container_width": 20
+              }
+            },
+            "1494292487693": {
+              "type": "newsletter",
+              "settings": {
+                "container_width": 33
+              }
+            },
+            "1494301487049": {
+              "type": "menu",
+              "settings": {
+                "menu": "footer",
+                "container_width": 20
+              }
+            }
+          },
+          "block_order": [
+            "1494292481350",
+            "1494301487049",
+            "1494292485313",
+            "1494292487693"
+          ],
+          "settings": {
+          }
+        }
+      }
+    }
+  }
+}

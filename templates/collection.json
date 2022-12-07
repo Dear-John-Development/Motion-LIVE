@@ -1,0 +1,61 @@
+{
+  "sections": {
+    "main-collection": {
+      "type": "main-collection",
+      "blocks": {
+        "collection_description": {
+          "type": "collection_description",
+          "settings": {
+          }
+        },
+        "product_grid": {
+          "type": "product_grid",
+          "settings": {
+            "collection_subnav_style": "none",
+            "per_row": 4,
+            "mobile_flush_grid": true
+          }
+        }
+      },
+      "block_order": [
+        "collection_description",
+        "product_grid"
+      ],
+      "settings": {
+        "collection_image_enable": false,
+        "collection_image_height": 450,
+        "parallax": false,
+        "parallax_direction": "top",
+        "enable_sidebar": true,
+        "collapsed": true,
+        "enable_color_swatches": true,
+        "enable_sort": true
+      }
+    },
+    "2130f1d7-68ff-4a82-b57f-ff43f7377cb2": {
+      "type": "advanced-content",
+      "blocks": {
+        "template--14806449979481__2130f1d7-68ff-4a82-b57f-ff43f7377cb2-1665009278ccac8293-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Rewards_Strip_banner_copy_final.jpg",
+            "link": "shopify:\/\/pages\/rewards-program",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--14806449979481__2130f1d7-68ff-4a82-b57f-ff43f7377cb2-1665009278ccac8293-0"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    }
+  },
+  "order": [
+    "main-collection",
+    "2130f1d7-68ff-4a82-b57f-ff43f7377cb2"
+  ]
+}

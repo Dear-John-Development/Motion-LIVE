@@ -1,0 +1,134 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "separator": {
+          "type": "separator",
+          "settings": {
+          }
+        },
+        "9576ee08-e1bd-47ad-a2dc-aaa9dd5f6da3": {
+          "type": "size_chart",
+          "settings": {
+            "size_chart": "size-chart"
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": true
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": false
+          }
+        },
+        "cd6d4d76-7446-4718-b698-0d9175cfa4e1": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "leaf",
+            "text": "Effortless styles, timeless fits... Let's do it together!   Free 2-day shipping upgrade for orders in the U.S. Free shipping with $100 + purchase.     "
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "tab": {
+          "type": "tab",
+          "settings": {
+            "title": "Shipping information",
+            "content": "<p><\/p>",
+            "page": "shipping"
+          }
+        },
+        "contact": {
+          "type": "contact",
+          "settings": {
+            "title": "Ask a question",
+            "phone": false
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "price",
+        "separator",
+        "9576ee08-e1bd-47ad-a2dc-aaa9dd5f6da3",
+        "variant_picker",
+        "buy_buttons",
+        "cd6d4d76-7446-4718-b698-0d9175cfa4e1",
+        "description",
+        "tab",
+        "contact",
+        "share"
+      ],
+      "settings": {
+        "sku_enable": true,
+        "image_size": "large",
+        "product_zoom_enable": true,
+        "thumbnail_position": "beside",
+        "thumbnail_height": "fixed",
+        "thumbnail_arrows": true,
+        "enable_video_looping": false,
+        "product_video_style": "muted"
+      }
+    },
+    "sub": {
+      "type": "product-full-width",
+      "settings": {
+        "max_width": true
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "show_product_recommendations": true,
+        "product_recommendations_heading": "You may also like",
+        "related_count": 6
+      }
+    },
+    "collection-return": {
+      "type": "collection-return",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "6ec58871-038f-4827-82e9-175f80ad92e3": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Trending Now",
+        "home_featured_products": "whats-hot",
+        "per_row": 5,
+        "rows": 1,
+        "view_all": true,
+        "divider": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "sub",
+    "product-recommendations",
+    "collection-return",
+    "6ec58871-038f-4827-82e9-175f80ad92e3"
+  ]
+}

@@ -1,0 +1,335 @@
+{
+  "sections": {
+    "1642187905e9ae6197": {
+      "type": "slideshow",
+      "blocks": {
+        "164218790561090481-0": {
+          "type": "image",
+          "settings": {
+            "title": "Bring the Magic.",
+            "title_size": 69,
+            "subheading": "IN OUR NEW ARRIVALS!",
+            "link": "shopify:\/\/collections\/shop-new-arrivals",
+            "link_text": "Shop Now",
+            "text_align": "vertical-center horizontal-left",
+            "image": "shopify:\/\/shop_images\/DJ_DEC_MB_2.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/DJ_DEC_MB_2_MOBILE.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 10,
+            "focal_point": "center center"
+          }
+        },
+        "164218790561090481-1": {
+          "type": "image",
+          "settings": {
+            "title": "Always Joyful...",
+            "title_size": 69,
+            "subheading": "",
+            "link": "shopify:\/\/collections\/shop-all-tops",
+            "link_text": "SHOP TOPS",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/mb2DSC_7025_copy.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/mb2MobileDSC_7025_copy.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 8,
+            "focal_point": "center center"
+          }
+        },
+        "d0ce51be-9692-45bd-980b-49a4d34e10c6": {
+          "type": "image",
+          "settings": {
+            "title": "Let's share it...",
+            "title_size": 69,
+            "subheading": "",
+            "link": "shopify:\/\/collections\/shop-all-bottoms",
+            "link_text": "SHOP BOTTOMS",
+            "text_align": "vertical-center horizontal-left",
+            "image": "shopify:\/\/shop_images\/DJ_DEC_MB_1.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/DJ_DEC_MB_1_MOBILE.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 6,
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "164218790561090481-0",
+        "164218790561090481-1",
+        "d0ce51be-9692-45bd-980b-49a4d34e10c6"
+      ],
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 6
+      }
+    },
+    "164341386657514840": {
+      "type": "advanced-content",
+      "blocks": {
+        "651bf960-5fcb-44bd-8f3a-16a236c2e6fa": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_5144_1_copy_e9037ebb-9d3e-4975-a57a-1793395d4a9e.jpg",
+            "link": "shopify:\/\/collections\/spotlight",
+            "width": "100%",
+            "alignment": "top-middle"
+          }
+        },
+        "929a6763-166b-410a-8b6d-7b75bd5936af": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Rewards_Strip_banner_copy_final.jpg",
+            "link": "shopify:\/\/pages\/rewards-program",
+            "width": "100%",
+            "alignment": "bottom-middle"
+          }
+        }
+      },
+      "block_order": [
+        "651bf960-5fcb-44bd-8f3a-16a236c2e6fa",
+        "929a6763-166b-410a-8b6d-7b75bd5936af"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    },
+    "166489865999399c72": {
+      "type": "3ColumnFeature",
+      "settings": {
+      }
+    },
+    "rich-text": {
+      "type": "rich-text",
+      "blocks": {
+        "text": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Our holiday season is always warm, let's gather in love, friendship, & gratitude in... <br\/>  <a href=\"https:\/\/dearjohndenim.com\/collections\/shop-new-arrivals\">NEW ARRIVALS <\/a><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "08c103ce-da33-4463-ba46-83f36ba0a210": {
+      "type": "Collection-Carousel",
+      "settings": {
+      }
+    },
+    "16419233283e7e7458": {
+      "type": "rich-text",
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "16444489030d8f55ab": {
+      "type": "advanced-content",
+      "blocks": {
+        "1bced55b-9681-441c-9e49-4ca870f0fcb1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<a href='https:\/\/dearjohndenim.com\/discount\/MIX&MATCH?redirect=%2Fcollections%2Fmix-match'><div class='mixAndMatch' style='display:flex;flex-wrap:wrap; justify-content:center;background: radial-gradient(ellipse farthest-corner at right bottom, #FEDB37 0%, #FDB931 8%, #9f7928 30%, #8A6E2F 40%, transparent 80%),\n                radial-gradient(ellipse farthest-corner at left top, #FFFFFF 0%, #FFFFAC 8%, #D1B464 25%, #5d4a1f 62.5%, #5d4a1f 100%);;padding-left:.7rem;\npadding-top:1.2rem;\nmin-height:5rem; height:4rem; align-items:center; position:relatve;'>\n<h2 style='position:absolute;color:white;display:flex; justify-content:space-evenly; align-content:center;'> 2 For $88 WITH CODE:<span style='font-weight: bold;margin-left:.3rem; margin-right:.3rem; align-text:center;'>MIX&MATCH<\/span><span style='padding-left:1rem;padding-right:1rem;'>|<\/span>  Shop Now <\/h2>\n<\/div>\n<\/a>",
+            "width": "100%",
+            "alignment": "center"
+          }
+        },
+        "3d713866-649e-41ee-a275-8e90534dc11a": {
+          "type": "liquid",
+          "settings": {
+            "code": "<a href='https:\/\/dearjohndenim.com\/discount\/MIX&MATCH?redirect=%2Fcollections%2Fmix-match'>\n\n<video loading=\"lazy\" class='lazyautosizes lazyloaded' width=\"100%\" height=\"auto\" autoplay=\"autoplay\" loop=\"true\" muted default='muted' playsinline>\n\n    <source alt='sail into the sunset with Dear John's bottoms collection'\nclass='lazyautosizes lazyloaded' src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/6ac7a348828647cca43620893d39b06c.mp4\"\n            type=\"video\/webm\">\n\n    <source \nclass='lazyautosizes lazyloaded' src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/6ac7a348828647cca43620893d39b06c.mp4\"\n            type=\"video\/mp4\">\n\n    Sorry, your browser doesn't support embedded videos.\n<\/video>\n<\/a>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "1644448902208a609f-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<a href='https:\/\/dearjohndenim.com\/discount\/MIX&MATCH?redirect=%2Fcollections%2Fmix-match'>\n\n<video loading=\"lazy\" class='lazyautosizes lazyloaded' width=\"100%\" height=\"auto\" autoplay=\"autoplay\" loop=\"true\" muted default='muted' playsinline>\n\n    <source alt='sail into the sunset with Dear John's bottoms collection'\nclass='lazyautosizes lazyloaded' src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/c62f563286c042eeb60ec7828d557442.mp4\"\n            type=\"video\/webm\">\n\n    <source \nclass='lazyautosizes lazyloaded' src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/c62f563286c042eeb60ec7828d557442.mp4\"\n            type=\"video\/mp4\">\n\n    Sorry, your browser doesn't support embedded videos.\n<\/video>\n<\/a>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "1bced55b-9681-441c-9e49-4ca870f0fcb1",
+        "3d713866-649e-41ee-a275-8e90534dc11a",
+        "1644448902208a609f-1"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    },
+    "16419237993e9348c8": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "MOST LOVED BY EVERYONE, what about you? Check out what everyone is buzzing about!",
+        "home_featured_products": "whats-hot",
+        "per_row": 4,
+        "rows": 1,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "16419237005b1fac99": {
+      "type": "rich-text",
+      "blocks": {
+        "164192370023f42522-0": {
+          "type": "heading",
+          "settings": {
+            "title": "FIND YOUR SOUL FIT..."
+          }
+        },
+        "164192370023f42522-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Flaunt the perfect curves, compliment your confidence and unrestrained lifestyle!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "164192370023f42522-0",
+        "164192370023f42522-1"
+      ],
+      "settings": {
+        "align_text": "left",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "collection-callout": {
+      "type": "collection-callout",
+      "settings": {
+        "collection": "circle-of-dresses",
+        "subtitle": "REASONS TO FALL IN LOVE WITH DEAR JOHN DENIM...",
+        "title": "TIMELESS FITS & WASHES",
+        "text": "",
+        "cta_text1": "OUR FITS",
+        "cta_link1": "shopify:\/\/pages\/fit-guide",
+        "cta_text2": "DENIM WASHES",
+        "cta_link2": "shopify:\/\/pages\/wash-spectrum",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "1651603653308de3d9": {
+      "type": "advanced-content",
+      "blocks": {
+        "8f85258f-0c6c-48f7-880a-6697402bde27": {
+          "type": "liquid",
+          "settings": {
+            "code": "<style> \n\n    \n.alsf{\nmargin-top:5%;\nwidth:100%;\nheight: auto; \n}\n <\/style>\n<h2 class='alsf'>LOVING THE FITS, FOR YOUR CASUAL STYLING, DISCOVER THE BRAND YOU'LL LOVE...\n<\/br><span>ANOTHER LOVE CLOTHING.COM<\/span> <\/h2>\n<a href='https:\/\/dearjohndenim.com\/pages\/another-love'>\n<img id='effect8' alt='Another Love Clothing' class=\"lazyloaded\" loading=\"lazy\" src='https:\/\/cdn.shopify.com\/s\/files\/1\/1525\/7518\/files\/Another_Love_Holiday.png?v=1666910952'\/>\n<\/a>",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "8f85258f-0c6c-48f7-880a-6697402bde27"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    },
+    "16419239307d85ce25": {
+      "type": "apps",
+      "blocks": {
+        "85108b42-432f-4ac9-bf34-bd755cfa4364": {
+          "type": "shopify:\/\/apps\/instafeed-instagram-feed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
+          "settings": {
+            "heading_size": 16,
+            "feed_width": 100,
+            "html_area": ""
+          }
+        }
+      },
+      "block_order": [
+        "85108b42-432f-4ac9-bf34-bd755cfa4364"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": false
+      }
+    },
+    "164192380956c41120": {
+      "type": "newsletter",
+      "blocks": {
+        "164192380928fb7dc7-0": {
+          "type": "title",
+          "settings": {
+            "title": "Sign up and save",
+            "icon_enable": true
+          }
+        },
+        "164192380928fb7dc7-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Subscribe to get special offers, free giveaways, and once-in-a-lifetime deals.<\/p>"
+          }
+        },
+        "164192380928fb7dc7-2": {
+          "type": "form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "164192380928fb7dc7-0",
+        "164192380928fb7dc7-1",
+        "164192380928fb7dc7-2"
+      ],
+      "settings": {
+        "color_background": "#f9f9f9",
+        "color_text": "#1c1d1d"
+      }
+    },
+    "background-image-text": {
+      "type": "background-image-text",
+      "settings": {
+        "subtitle": "",
+        "title": "Originated for now and for keeps!",
+        "text": "<p>Contemporary designs, Breathtaking you, let’s  continue to style together for the everlasting experience.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "image": "shopify:\/\/shop_images\/updated_bottom_banner.jpg",
+        "focal_point": "center",
+        "layout": "left",
+        "height": 650,
+        "parallax": true,
+        "parallax_direction": "top"
+      }
+    }
+  },
+  "order": [
+    "1642187905e9ae6197",
+    "164341386657514840",
+    "166489865999399c72",
+    "rich-text",
+    "08c103ce-da33-4463-ba46-83f36ba0a210",
+    "16419233283e7e7458",
+    "16444489030d8f55ab",
+    "16419237993e9348c8",
+    "16419237005b1fac99",
+    "collection-callout",
+    "1651603653308de3d9",
+    "16419239307d85ce25",
+    "164192380956c41120",
+    "background-image-text"
+  ]
+}
