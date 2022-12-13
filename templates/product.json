@@ -63,6 +63,12 @@
             "phone": false
           }
         },
+        "2d7cba6b-b556-4509-9c5b-c144b3d625ec": {
+          "type": "custom",
+          "settings": {
+            "code": "{% for value in product.metafields.my_fields.stretch %}\n{% if value == 'STRETCH' %}\n<img src='https:\/\/cdn.shopify.com\/s\/files\/1\/1024\/2207\/files\/stretch_copy_c188cc68-2a6a-4e62-8d0e-54fc04684f5d.jpg?v=1670974857' \/>\n{% endif %}\n{% if value == 'RIGID' %}\n<img src='https:\/\/cdn.shopify.com\/s\/files\/1\/1024\/2207\/files\/Rigid_3_copy.jpg?v=1670974857' \/>\n{% endif %}\n{% if value == 'COMFORT STRETCH' %}\n<img src='https:\/\/cdn.shopify.com\/s\/files\/1\/1024\/2207\/files\/comfort_stretch_2_copy.jpg?v=1670974857' \/>\n{% endif %}\n{% if value == 'SUPER STRETCH' %}\n<img src='https:\/\/cdn.shopify.com\/s\/files\/1\/1024\/2207\/files\/super_stretch_2_copy.jpg?v=1670974857' \/>\n{% endif %}\n{% endfor %}"
+          }
+        },
         "share": {
           "type": "share",
           "settings": {
@@ -79,6 +85,7 @@
         "description",
         "tab",
         "contact",
+        "2d7cba6b-b556-4509-9c5b-c144b3d625ec",
         "share"
       ],
       "settings": {
