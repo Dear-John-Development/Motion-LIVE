@@ -11,9 +11,9 @@
             "subheading": "IN OUR NEW ARRIVALS!",
             "link": "shopify:\/\/collections\/shop-new-arrivals",
             "link_text": "Shop Now",
-            "text_align": "vertical-center horizontal-left",
-            "image": "shopify:\/\/shop_images\/DJ_DEC_MB_2.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/DJ_DEC_MB_2_MOBILE.jpg",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/DJ_DEC_RF_MB_3.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/DEAR_JOHN_HOLIDAY_20227589_copy.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 10,
             "focal_point": "center center"
